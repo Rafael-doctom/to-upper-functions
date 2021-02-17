@@ -1,0 +1,9 @@
+/* CONTENT */
+#content{
+    display: flex;
+    justify-content: center;
+}
+
+#content div{
+    padding: 1rem;
+}
